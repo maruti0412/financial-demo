@@ -239,7 +239,7 @@ formatter:
 
 lint:
 	flake8 actions
-	black --check actions
+	# black --check actions
 
 types:
 	pytype --keep-going actions
