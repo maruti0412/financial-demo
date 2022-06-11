@@ -25,7 +25,7 @@ AWS_REGION := us-west-2
 AWS_ECR_URI := 551330932327.dkr.ecr.us-west-2.amazonaws.com
 AWS_ECR_REPOSITORY := financial-demo
 
-AWS_S3_BUCKET_NAME := rasa-financial-demo-ms
+AWS_S3_BUCKET_NAME := rasa-financial-demo-ms-1
 
 AWS_IAM_ROLE_NAME := eksClusterRole
 
